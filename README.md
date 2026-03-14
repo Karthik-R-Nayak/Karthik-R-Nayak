@@ -31,8 +31,11 @@ Implementation of algorithms and problem-solving approaches focusing on efficien
 
 ## Contact
 *Email: karthikrnayakhdk2006@gmail.com
+
 * GitHub: https://github.com/Karthik-R-Nayak
+
 * LinkedIn: https://www.linkedin.com/in/karthik-nayak-ba9aa9316
+
 *Instagram: https://www.instagram.com/mr_karthi06_?igsh=MXY3c2ZtbGczYzR6YQ==
 
 
