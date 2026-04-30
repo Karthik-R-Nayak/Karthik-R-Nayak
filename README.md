@@ -1,5 +1,5 @@
 
-# Hi, I'm karthik  👋
+# Hi, I'm karthik  
 
 ## About Me
 Computer Science student interested in Computer Networking, Systems, and Computer Vision.
