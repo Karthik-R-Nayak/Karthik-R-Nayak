@@ -29,9 +29,8 @@ Implementation of algorithms and problem-solving approaches focusing on efficien
 - 🔭 I’m currently working on projects based on computer networking and ml
 
 ## Contact
-*Email: karthikrnayakhdk2006@gmail.com
-*GitHub: https://github.com/Karthik-R-Nayak
-
+* Email: karthikrnayakhdk2006@gmail.com
+* GitHub: https://github.com/Karthik-R-Nayak
 * LinkedIn: https://www.linkedin.com/in/karthik-nayak-ba9aa9316
 
 
